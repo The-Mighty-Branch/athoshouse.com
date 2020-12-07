@@ -37,19 +37,24 @@ export const Title = styled.h1`
 `
 
 export const Description = styled.h2`
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 400;
   color: yellow;
   word-wrap: break-word;
-  width: 40rem;
+  /* width: 80rem; */
   text-decoration: underline;
   margin-bottom: 2rem;
   text-align: center;
+
+  @media (max-width: 800px) {
+    font-size: 1rem;
+  }
 `
 
 export const Illustration = styled.img`
   margin-top: 3rem;
-  width: min(50rem, 100%);
+  margin-bottom: 2rem;
+  width: min(80rem, 100%);
   border: 10px solid yellow;
 `
 

@@ -29,7 +29,13 @@ const Main = () => (
           attracted to satisfy the desire of the regulars.
         </S.Description>
       </S.TextWrapper>
+    </S.Wrapper>
+    <S.Wrapper>
       <S.Illustration src="/img/vampire-food.jpg" alt="The Atmus people" />
+      <S.Description>
+        Atmos was always know as the punk gothic rock scenario. Many creatures
+        gather into this place to celebrate the "Abate"
+      </S.Description>
     </S.Wrapper>
     <S.Wrapper id="bands">
       <div>
