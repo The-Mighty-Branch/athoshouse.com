@@ -5,35 +5,9 @@
 
 <img src="https://i.ibb.co/mctkq75/webstie-print.png" alt="screenshot" width="900px" />
 
-This project uses lot of stuff as:
+## Ambientado no mundo das trevas de Nova York nos anos 80, sobre vampiros, seitas e bastante sangramento
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Husky](https://github.com/typicode/husky)
+> Essa descrição não reflete o estado final do cenário.
 
-## Getting Started
+O cenário será ambientado no final dos anos 80’s, buscando trazer o nascimento de casas de músicas, discotecas ou raves. Em um mundo dominado por criaturas horripilantes, seitas vampíricas, demônios, espíritos malignos, todos vivendo entre humanos normais. Embora, nem todos conseguem viver sob a máscara do mundo normal, existem aqueles que estão na linha de frente para colocar ordem em um mundo de caos, ou será que não?
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-## Commands
-
-- `dev`: runs your application on `localhost:3000`
-- `build`: creates the production build version
-- `start`: starts a simple server with the build production code
-- `lint`: runs the linter in all components and pages
-- `test`: runs jest to test all components and pages
-- `test:watch`: runs jest in watch mode
-- `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
