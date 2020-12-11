@@ -3,11 +3,11 @@
 
 > The Atmos Night Club official website. From the Dheyson's Vampire, The Masquerade - The Missing of Margaret Vonner.
 
-<img src="https://i.ibb.co/mctkq75/webstie-print.png" alt="screenshot" width="900px" />
+<img src="/public/img/vampire-cover.png" alt="screenshot" width="900px" />
 
-## Ambientado no mundo das trevas de Nova York no final dos anos 90, sobre vampiros, seitas e bastante sangramento
+## Set in the dark world of New York in the late 90s, about vampires, sects and a lot of bleeding
 
-> Essa descrição não reflete o estado final do cenário.
+> This description does not reflect the final state of the scenario.
 
-O cenário será ambientado no final dos anos 90’s, buscando trazer o nascimento de casas de músicas, discotecas ou raves. Em um mundo dominado por criaturas horripilantes, seitas vampíricas, demônios, espíritos malignos, todos vivendo entre humanos normais. Embora, nem todos conseguem viver sob a máscara do mundo normal, existem aqueles que estão na linha de frente para colocar ordem em um mundo de caos, ou será que não?
+The scenario will be set in the late 90's, seeking to bring about the birth of music houses, discos or raves. In a world dominated by horrifying creatures, vampiric sects, demons, evil spirits, all living among normal humans. Although, not everyone can live under the mask of the normal world, are there those who are on the front lines to put order in a world of chaos, or are they not?
 
