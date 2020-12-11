@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: red;
+  background-color: darkred;
 `
 
 export const Logo = styled.img`
@@ -27,7 +27,7 @@ export const NavWrapper = styled.div`
 `
 
 export const NavItem = styled.a`
-  color: yellow;
+  color: #fff;
   width: 30rem;
   font-size: 2rem;
   text-decoration: none;
@@ -36,8 +36,7 @@ export const NavItem = styled.a`
   margin-right: 1rem;
 
   :hover {
-    background-color: #fff;
-    color: #000;
+    color: yellow;
     text-decoration: underline;
   }
 `

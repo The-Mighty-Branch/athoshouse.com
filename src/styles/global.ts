@@ -22,7 +22,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   h1, h2, h3, p, a {
-        font-family: 'Rock Salt', cursive;
+        /* font-family: 'Rock Salt', cursive; */
   }
 `
 
